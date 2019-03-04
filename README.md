@@ -1,15 +1,17 @@
 #### 项目说明：
-	用于归档技术总结等
+	用于归档技术总结，摘记等，方便脑子不好使。
 
-##### 1.面试题摘记
+##### 1.[面试题摘记](interview.md)
+    
+##### 2.[JavaScript摘记](javascript.md)
 
+##### 3.[Nodejs摘记](nodejs.md)
 
-##### 2.JavaScript摘记
+##### 4.[Vuejs摘记](vuejs.md)
 
-##### 3.Nodejs摘记
+##### 5.[Html摘记](html.md)
 
-##### 4.Vuejs摘记
+##### 6.[CSS摘记](css.md)
 
-##### 5.Html摘记
+##### 7.[jQuery摘记](jquery.md)
 
-##### 6.CSS摘记
